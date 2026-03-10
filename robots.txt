@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vijayelectronic.github.io/Top-Digital-School-Bell-System-Supplier-in-India/sitemap.xml
